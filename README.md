@@ -1,4 +1,4 @@
 # Bifurcations-of-a-Van-der-Pol-oscillator-in-a-double-well
-Study self-sustained oscillators in nature that can be described by Van der Pol's equation. 
-Specifically, we study the bifurcations and stabilities of the double-well potential Van der Pol oscillator by changing its parameters. 
-Several figures(maps) can be obtained.
+Self-sustained oscillators in nature can be described by Van der Pol's equation. 
+Here we study the bifurcations and stabilities of the double-well by changing parameters of the equation.
+Maps are constructed and then analyzed.
